@@ -1,6 +1,6 @@
-package com.sabbir.arrays.binary;
+package com.sabbir.arrays.search;
 
-public class BinarySearch {
+public class A02_BinarySearch {
 
     public static int binarySearchWhile(int[] inputArray, int key) {
         int start = 0;
