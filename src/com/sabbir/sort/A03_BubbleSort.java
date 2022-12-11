@@ -1,4 +1,4 @@
-package com.sabbir.arrays.sort;
+package com.sabbir.sort;
 
 /**
  * Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements

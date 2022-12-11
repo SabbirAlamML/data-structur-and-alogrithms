@@ -1,4 +1,4 @@
-package com.sabbir.arrays.sort;
+package com.sabbir.sort;
 
 public class A01_MergeSort {
 }

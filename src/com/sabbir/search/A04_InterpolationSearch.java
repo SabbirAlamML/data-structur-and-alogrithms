@@ -1,4 +1,4 @@
-package com.sabbir.arrays.search;
+package com.sabbir.search;
 
 public class A04_InterpolationSearch {
 }

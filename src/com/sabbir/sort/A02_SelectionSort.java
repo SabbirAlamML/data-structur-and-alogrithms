@@ -1,4 +1,4 @@
-package com.sabbir.arrays.sort;
+package com.sabbir.sort;
 
 /**
  * The selection sort algorithm sorts an array by repeatedly finding the minimum element

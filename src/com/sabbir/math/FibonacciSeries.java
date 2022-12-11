@@ -1,4 +1,4 @@
-package com.sabbir;
+package com.sabbir.math;
 
 public class FibonacciSeries {
     public static int findTotalNumberCase(int inputNum) {

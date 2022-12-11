@@ -1,4 +1,4 @@
-package com.sabbir.arrays.search;
+package com.sabbir.search;
 
 public class A02_BinarySearch {
 
